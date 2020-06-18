@@ -1,4 +1,4 @@
-# Linear_Regression Assignment Problems
+# Linear_Regression Problems
 1) Calories_consumed-> predict weight gained using calories consumed 
 2) Delivery_time -> Predict delivery time using sorting time 
 3) Emp_data -> Build a prediction model for Churn_out_rate  
